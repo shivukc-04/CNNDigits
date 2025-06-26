@@ -12,8 +12,7 @@ This project demonstrates how to build a Convolutional Neural Network (CNN) usin
 ## 📁 Dataset
 The dataset is hosted on Kaggle.
 
-👉 [Click here to download the dataset](https://www.kaggle.com/datasets/YOUR-DATASET-LINK)  
-> *(Replace the above link with your actual Kaggle dataset URL)*
+👉 [Click here to download the dataset](https://www.kaggle.com/datasets/bamboonotes/handwritten-digits)  
 
 ## 🧮 Model Architecture
 - **Input Layer:** Reshaped 28x28 grayscale image  
