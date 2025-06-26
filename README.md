@@ -36,6 +36,13 @@ Input: [🖊️ handwritten "5"] → Predicted: 5
 Input: [🖊️ handwritten "7"] → Predicted: 
 
 **Final test accuracy:** ~98%
+## 🚀 How to Run
+1. Clone this repo  
+2. Install dependencies  
+   ```bash
+   pip install -r requirements.txt
+   jupyter notebook digit.ipynb
+
 
 ---
 
